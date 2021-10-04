@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pravin-isro
 - 👀 I’m interested in Network Security and endpoint security
-- 📫 How to reach me on pravin.choudhary.sac@gmail.com
+- 📫 Reach me on pravin.choudhary.sac@gmail.com
 
 <!---
 pravin-isro/pravin-isro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
